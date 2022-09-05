@@ -161,8 +161,8 @@
       "price": 57
     }
   ],
-"login":{
+"login":[{
   "username":"",
   "password":""
-}
+}]
 }
